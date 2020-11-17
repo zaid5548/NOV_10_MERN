@@ -101,5 +101,5 @@ function processDetails(teamName,batsmanName, runs, balls, fours, six){
 }
 
 
-//export getMatch
+//export getMatch to AllMatch.js File
 module.exports = getMatch;
